@@ -1,6 +1,9 @@
 # Aegean-Employment-Scams-Detection-App
 AI-powered classifier mobile app using NLP to spot fake job ads and protect users from online scams. Our system analyzes language patterns and leverages algorithms to create a safe and trustworthy job search experience.
 
+### Introduction
+Unemployment is a critical economic indicator that provides insights into consumer behavior, business confidence, government spending, and the overall health of an economy. Policymakers, businesses, and individuals closely monitor unemployment data to make informed decisions.
+
 In today's competitive job market, sifting through countless online job postings can be overwhelming. Sadly, among legitimate opportunities, insidious employment scams lurk, putting job seekers at risk of financial loss and identity theft. This project addresses this critical issue by empowering job seekers with an AI-powered classifier built using Machine Learning and Natural Language Processing (NLP). Our innovative system aims to accurately distinguish between genuine and fraudulent job advertisements, shielding users from deceptive tactics. By analyzing linguistic patterns and leveraging advanced algorithms, we strive to create a secure and trustworthy online job search experience, ultimately protecting individuals from falling victim to malicious schemes.
 
 ### Dataset
